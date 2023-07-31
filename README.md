@@ -1,8 +1,8 @@
 
+<img align="right" alt="Banner" width=100% src="https://64.media.tumblr.com/495216df4a46a4ecb3be16d58ea8382c/514d2cf6c1dd487d-3a/s1280x1920/c7751d3091eea57cba14ff8743245698f07e76a3.png" />
+<span />
 <h1 align="center">Hi 👋, my name is Varuni!</h1>
-<h3 align="center">A Computer Science student at The University of Waterloo.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/rHlEdDq.gif" />
+<h3 align="center">A Computer Science student at the University of Waterloo.</h3>
 
 - 🌱 I’m currently learning **React, Material UI, Git**
 
