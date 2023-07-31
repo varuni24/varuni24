@@ -6,18 +6,18 @@
 
 <h2> 💫 About Me: </h2>
 
+<img align="right" alt="Coding" width="280" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+
 - 💻 I'm currently a student at the University of Waterloo, prusuing Computer Science
 - 🌍 I'm from India 🇮🇳 and based in Dubai, UAE 🇦🇪
 - 🌱 I’m a big-time enthusiast and always curious!
 - 🚀 I’m interested in Web Development and Machine Learning
 - ⚡ Fun fact: I love eating ramen and it's my best friend when I am coding
 
-<img width=100% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left">Contact Me</h2>
-    <a href="https://www.linkedin.com/in/varunigupta/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-<img width=100% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <a href="https://www.linkedin.com/in/varunigupta/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+    <a href="mailto: varuni2410@gmail.com" target="_blank"><img src="https://www.pngmart.com/files/16/Gmail-PNG-Clipart.png " width="32" height="32">
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -55,4 +55,3 @@
     <a href="#"><img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 </div>
-<img width=100% src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
