@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="280" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
-- 💻 I'm currently a student at the University of Waterloo, prusuing Computer Science
+- 💻 I'm a student at the University of Waterloo, prusuing Computer Science
 - 🌍 I'm from India 🇮🇳 and based in Dubai, UAE 🇦🇪
 - 🌱 I’m a big-time enthusiast and always curious!
 - 🚀 I’m interested in Web Development and Machine Learning
