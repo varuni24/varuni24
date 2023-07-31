@@ -1,5 +1,5 @@
 
-<img align="right" alt="Banner" width=100% src="https://64.media.tumblr.com/495216df4a46a4ecb3be16d58ea8382c/514d2cf6c1dd487d-3a/s1280x1920/c7751d3091eea57cba14ff8743245698f07e76a3.png" />
+<img align="right" alt="Banner" width=100% src="https://64.media.tumblr.com/7d8092d295368037db1fdae742a5844b/e52a0c7c2f4cfadc-ba/s640x960/6316fd1cd1cfcdec6791696441414948a47dfd39.gif" />
 <span />
 <h1 align="center">Hi 👋, my name is Varuni!</h1>
 <h3 align="center">A Computer Science student at the University of Waterloo.</h3>
