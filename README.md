@@ -15,9 +15,7 @@
 - ⚡ Fun fact: I love eating ramen and it's my best friend when I am coding
 
 
-<h2 align="left">Contact Me</h2>
-    <a href="https://www.linkedin.com/in/varunigupta/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-    <a href="mailto: varuni2410@gmail.com" target="_blank"><img src="https://www.pngmart.com/files/16/Gmail-PNG-Clipart.png " width="32" height="32">
+<h2 align="left">Contact Me</h2> <a href="https://www.linkedin.com/in/varunigupta/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -52,6 +50,5 @@
     <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
     <a href="#"><img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 </div>
