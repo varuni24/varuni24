@@ -1,16 +1,12 @@
 
-<img align="right" alt="Banner" width=100% src="Banner.png" />
 
 
 <h2> 💫 About Me: </h2>
 
-<img align="right" alt="Coding" width="280" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
-
-- 💻 I'm a second-year student at the University of Waterloo, prusuing Computer Science
-- 🌍 I'm from India 🇮🇳 and based in Waterloo, Ontario 🇨🇦
+- 💻 I'm a second-year student at Boston University, prusuing Computer Science
+- 🌍 I'm from Dubai and based in Boston, USA 
 - 🌱 I’m a big-time enthusiast and always curious!
-- 🚀 I’m interested in Web Development and Machine Learning
-- ⚡ Fun fact: I love eating ramen and it's my best friend when I am coding
+- 🚀 I’m interested in Web Development, Data Analytics and AI
 
 
 <h2 align="left">Contact Me</h2> <a href="https://www.linkedin.com/in/varunigupta/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
